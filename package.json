@@ -1,0 +1,16 @@
+{
+  "name": "bot4dummies.api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "booljs": "^0.7.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Elfos Explotados (EE)",
+  "license": "MIT",
+  "description": ""
+}
